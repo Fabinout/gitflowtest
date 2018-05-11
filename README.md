@@ -2,10 +2,10 @@
 
 ##accueil de notre repo
 
-### New Title
-
+### Titre refactoré
 Paragraphe
 
 
-### new paragraaaaaphe
-Paragraphe 2 edited by someoneelse
+### Nouveau paragraphe
+Paragraphe 2
+
