@@ -5,7 +5,6 @@
 ### Titre refactoré
 Paragraphe
 
-
 ### Nouveau paragraphe
 Paragraphe 2
 
